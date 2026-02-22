@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://gro1000vote.com/sitemap.xml
+
+Sitemap: https://gro1000vote.pages.dev/sitemap.xml

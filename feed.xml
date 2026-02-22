@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Empower Your Voice, Enrich Your Community</title>
+    <link>https://gro1000vote.pages.dev</link>
+    <description>Latest posts from Empower Your Voice, Enrich Your Community</description>
+    <language>en-us</language>
+    <lastBuildDate>2026-02-21</lastBuildDate>
+    <atom:link href="https://gro1000vote.pages.dev/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Complete Guide to Voter Registration</title>
+      <link>https://gro1000vote.pages.dev/posts/complete-guide-to-voter-registration/</link>
+      <description>Everything you need to know about registering to vote in the United States.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+    <item>
+      <title>Getting Involved Beyond Voting</title>
+      <link>https://gro1000vote.pages.dev/posts/getting-involved-beyond-voting/</link>
+      <description>Meaningful ways to participate in democracy beyond casting a ballot.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+    <item>
+      <title>The Foundations of Effective Civic Engagement</title>
+      <link>https://gro1000vote.pages.dev/posts/the-foundations-of-effective-civic-engagement/</link>
+      <description>The Foundations of Effective Civic Engagement — an in-depth exploration with evidence-based insights.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+    <item>
+      <title>Why Local Elections Matter</title>
+      <link>https://gro1000vote.pages.dev/posts/understanding-local-elections/</link>
+      <description>How local government shapes your daily life and why your vote matters most at the local level.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+  </channel>
+</rss>
